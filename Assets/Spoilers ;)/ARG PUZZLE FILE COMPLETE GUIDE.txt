@@ -1,0 +1,31 @@
+ARG PUZZLE FILE: COMPLETE GUIDE
+
+1) Needs a username to get to terminal.
+
+New Website
+
+Password: At bottom of home screen
+Username: CEO's Email Adress
+
+2) Needs something to type into the terminal
+2.1) Get to the initiative logbook
+
+Old Website
+
+Go to maze game
+Winning gives the command
+
+2.2) Get to the NewEra Website
+
+Initiative logbook
+Log about 'Kco: New Era'
+Log 3
+Command is hidden in black at the bottom of the screen
+
+2.3) Get to NewEra logbook
+
+NewEra Website
+
+Look around the about us page for mis-capitalised letters.
+These spell out the command
+

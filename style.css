@@ -1,0 +1,24 @@
+@font-face {
+   font-family: 'Aharoni' ;
+   src: url(Assets/Fonts/Aharoni_Bold_V3.ttF) format('truetype');
+ }
+
+@font-face {
+   font-family: 'Agency FB' ;
+   src: url(Assets/Fonts/AgencyFB-Bold.ttf) format('truetype');
+ }
+
+@font-face {
+   font-family: 'Electronic' ;
+   src: url(Assets/Fonts/Electronic.ttf) format('truetype');
+ }
+
+@font-face {
+   font-family: 'Jam' ;
+   src: url(Assets/Fonts/JamDay.otf) format('opentype');
+ }
+
+@font-face {
+   font-family: 'Permisson' ;
+   src: url(Assets/Fonts/Permisson.otf) format('opentype');
+ }
